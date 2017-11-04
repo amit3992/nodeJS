@@ -1,14 +1,14 @@
 {
-  "name": "notes-node",
+  "name": "api-test",
   "version": "1.0.0",
-  "description": "Note making app using node.js",
-  "main": "app.js",
+  "description": "repo of all my api test scripts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amit Kulkarni",
+  "author": "amit",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "request": "^2.83.0"
   }
 }
