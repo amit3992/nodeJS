@@ -18,10 +18,10 @@ Weather at: 801 Spring St, Seattle, WA 98104, USA
 ===================================================
 
 
-Time: 0:19:17
-Current conditions: Mostly Cloudy
-Current temperature: 34.08
-Current wind-speed:  0.63
+Time: 0:19:17  
+Current conditions: Mostly Cloudy  
+Current temperature: 34.08  
+Current wind-speed:  0.63  
 
 Example 2:
 
@@ -32,9 +32,9 @@ Weather at: 450 Piedmont Ave NE, Atlanta, GA 30308, USA
 ===================================================
 
 
-Time: 0:27:19
-Current conditions: Partly Cloudy
-Current temperature: 61.61
-Current wind-speed:  0.62
+Time: 0:27:19  
+Current conditions: Partly Cloudy  
+Current temperature: 61.61  
+Current wind-speed:  0.62  
 
 
