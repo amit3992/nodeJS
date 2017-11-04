@@ -13,7 +13,7 @@ Example 1:
 
 * node app.js -a '801 Spring St Seattle WA'
 
-* O/P
+* O/P  
 Weather at: 801 Spring St, Seattle, WA 98104, USA
 ===================================================
 
@@ -27,7 +27,7 @@ Example 2:
 
 * node app.js -a '450 Piedmont Ave NE Atlanta GA'
 
-* O/P
+* O/P  
 Weather at: 450 Piedmont Ave NE, Atlanta, GA 30308, USA
 ===================================================
 
