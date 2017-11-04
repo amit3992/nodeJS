@@ -16,6 +16,8 @@ Example 1:
 * O/P
 Weather at: 801 Spring St, Seattle, WA 98104, USA
 ===================================================
+
+
 Time: 0:19:17
 Current conditions: Mostly Cloudy
 Current temperature: 34.08
@@ -28,6 +30,8 @@ Example 2:
 * O/P
 Weather at: 450 Piedmont Ave NE, Atlanta, GA 30308, USA
 ===================================================
+
+
 Time: 0:27:19
 Current conditions: Partly Cloudy
 Current temperature: 61.61
