@@ -1,6 +1,6 @@
 ## My Node projects
 
-1. Project-Conroe
+1. [Project-Conroe] (https://github.com/amit3992/nodeJS/tree/master/project-Conroe)
 
 Simple command line weather app using googlemaps api for latitude and longitude of an address.
 I get weather data using the latitude and longitude as parameters to darkSky API.
