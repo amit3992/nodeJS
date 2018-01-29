@@ -1,0 +1,15 @@
+{
+  "name": "project-gizmo",
+  "version": "1.0.0",
+  "description": "twilio + cat api",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Amit Kulkarni",
+  "license": "ISC"
+}
